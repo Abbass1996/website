@@ -1,0 +1,136 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.web-page
+{
+    margin: 0;
+    padding: 0;
+    width: 1367px;
+    height: 1750px;
+}
+.web-page img
+{
+    margin: -150px 0 0 0;
+    padding: 0;
+}
+.logo
+{
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    height: 35px;
+}
+.logo h3
+{   
+    width: 130px;
+    height: 35px;
+    margin: -1720px 0 0 200px ;
+    padding: 0;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+
+}
+.logo h1
+{
+    margin: 140px 0 0 470px;
+    padding: 0;
+    width: 500px;
+    height: 85px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+.logo h4
+{
+    margin: 40px 0 0 500px;
+    padding: 0;
+    width: 500px;
+    height: 85px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+nav
+{
+    margin: -30px 0 0 900px;
+    padding: 0;
+    width: 350px;
+    height: 45px;
+}
+nav li
+{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+nav li a
+{
+    margin: 0 20px 0 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    color:white
+}
+nav li a:hover
+{
+    color: rgb(187, 186, 186);
+}
+.page2
+{
+    margin: 0;
+    padding: 0;
+    width: 1367px;
+    height: 1500px;
+}
+.page2 p
+{
+    margin: 700px 0 0 450px;
+    padding: 0;
+    width: 730px;
+    height: 210px;
+    font-size: 22px;
+
+}
+.page3
+{
+    margin: 0;
+    padding: 0;
+ 
+}
+.page3 p
+{
+    margin: -750px 0 0 450px;
+    padding: 0;
+    width: 730px;
+    height: 210px;
+    font-size: 22px;
+}
+.page4
+{
+    margin: 0;
+    padding: 0;
+}
+.page4 p
+{
+    margin: -270px 0 0 450px;
+    padding: 0;
+    width: 730px;
+    height: 210px;
+    font-size: 22px;
+}
+.page5
+{
+    margin: 100px 0 0 600px;
+    padding: 0;
+    width: 215px;
+    height: 55px;
+}
+.page5 img
+{
+    margin: 0 15px 0 0;
+    padding: 0;
+}

@@ -1,0 +1,200 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.web-page
+{
+    margin: 0;
+    padding: 0;
+    width: 1367px;
+    height: 1750px;
+}
+.web-page img
+{
+    margin: -150px 0 0 0;
+    padding: 0;
+}
+.logo
+{
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    height: 35px;
+}
+.logo h3
+{   
+    width: 130px;
+    height: 35px;
+    margin: -1720px 0 0 200px ;
+    padding: 0;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+
+}
+.logo h1
+{
+    margin: 140px 0 0 470px;
+    padding: 0;
+    width: 500px;
+    height: 85px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+.logo h4
+{
+    margin: 40px 0 0 500px;
+    padding: 0;
+    width: 500px;
+    height: 85px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+nav
+{
+    margin: -30px 0 0 900px;
+    padding: 0;
+    width: 350px;
+    height: 45px;
+}
+nav li
+{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+nav li a
+{
+    margin: 0 20px 0 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    color:black;
+}
+nav li a:hover
+{
+    color: rgb(187, 186, 186);
+}
+.page2
+{
+    margin: 0;
+    padding: 0;
+    width: 605px;
+    height: 935px;
+}
+.page2 h1
+{   
+    width: 560px;
+    height: 95px;
+    margin: 600px 0 0 400px;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: black;
+
+}
+.page2 h2
+{   
+    width: 620px;
+    height: 50px;
+    margin: 10px 0 0 400px;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: black;
+}
+.page2 h4
+{
+    width: 550px;
+    height: 45px;
+    margin: 0 0 0 400px;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: rgb(139, 136, 136);
+}
+.page2 h5
+{   
+    width: 615px;
+    height: 25px;
+    margin: -10px 0 0 400px;
+    padding: 0;
+}
+.page3
+{
+    margin: 0;
+    padding: 0;
+    width: 605px;
+    height: 935px;
+}
+.page3 h1
+{
+     
+    width: 560px;
+    height: 95px;
+    margin: -700px 0 0 400px;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+.page3 h2
+{
+    width: 620px;
+    height: 50px;
+    margin: 10px 0 0 400px;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: black;
+}
+.page3 h4
+{
+    width: 550px;
+    height: 45px;
+    margin: 0 0 0 400px;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: rgb(139, 136, 136);
+}
+.page3 h5
+{
+    width: 615px;
+    height: 25px;
+    margin: -10px 0 0 400px;
+    padding: 0;
+}
+.col-md-8
+{
+    margin: -700 0 0 900px;
+    padding: 10px 0 0 0;
+    width: 190px;
+    height: 65px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.col-md-8 h5
+{
+    margin: 0 0 0 -900px;
+    padding: 0;
+    
+}
+.page4
+{
+    margin: -500px 0 0 600px;
+    padding: 0;
+    width: 215px;
+    height: 55px;
+}
+.page4 img
+{
+    margin: 0 15px 0 0;
+    padding: 0;
+}
+
+
